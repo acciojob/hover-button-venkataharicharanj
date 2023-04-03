@@ -11,5 +11,6 @@
 .joinBtn:hover {
     background-color: yellow;
 	color:black;
+	height: 60px;
 	border-radius:30px;
 }
